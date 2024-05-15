@@ -1,0 +1,9 @@
+{
+  "leaveTypeId": 9,
+  "fromDate": null,
+  "toDate": null,
+  "comment": "One day only.",
+  "duration": {
+    "type": "full_day"
+  }
+}
